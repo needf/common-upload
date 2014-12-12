@@ -8,3 +8,6 @@ TODO
         06 基于tornado的异步上传实现
         07 基于yui的断点续传
         08 自动生成二维码播放链接
+TIPS
+--------------
+        01 http://www.yeeach.com/post/1195
